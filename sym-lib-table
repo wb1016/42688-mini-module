@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ICM-42688-P")(type "KiCad")(uri "${KIPRJMOD}/42688/ICM-42688-P.kicad_sym")(options "")(descr ""))
+  (lib (name "conn")(type "KiCad")(uri "${KIPRJMOD}/conn/conn.kicad_sym")(options "")(descr ""))
+)
